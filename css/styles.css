@@ -1,0 +1,18 @@
+#p1 {
+    font-style: italic;
+}
+
+.favorite {
+    font-style: italic;
+}
+.Phone {
+    font-weight: bold;
+}
+body {
+    background-color: grey;
+    text-align: center;
+    color: lightsteelblue;
+}
+img {
+    border-radius: 10px;
+}
